@@ -5,7 +5,7 @@ This project focuses on building a regression model trained on video metadata to
 
 ---
 
-## ** Project Overview**
+##  Project Overview
 
 YouTube videos earn revenue through ads, and predicting the number of ad views can help creators and marketers estimate potential earnings.
 This project uses **metadata-driven regression** to predict ad view counts.
@@ -20,7 +20,7 @@ This project uses **metadata-driven regression** to predict ad view counts.
 
 ---
 
-## ** Dataset**
+##  Dataset
 
 The dataset contains YouTube video metadata, including:
 
@@ -38,7 +38,7 @@ The dataset contains YouTube video metadata, including:
 
 ---
 
-## ** Tech Stack**
+##  Tech Stack
 
 * **Language:** Python 
 * **Libraries:**
@@ -56,7 +56,7 @@ The dataset contains YouTube video metadata, including:
 
 ---
 
-## ** The Journey**
+## The Journey
 
 This project is **not just a model** — it’s been a **complete learning experience**.
 We went through **multiple iterations** of building, breaking, fixing, and re-building:
@@ -75,7 +75,7 @@ This repo reflects not just the **solution**, but also the **process** behind bu
 
 ---
 
-## ** Deployment**
+##  Deployment
 
 We experimented with different deployment platforms:
 
@@ -86,7 +86,7 @@ Stay tuned for working demos
 
 ---
 
-## ** Future Work**
+##  Future Work
 
 *  Finalize deployment on **Hugging Face Spaces**
 *  Set up a **Replicate API** endpoint
@@ -95,7 +95,7 @@ Stay tuned for working demos
 
 ---
 
-## Takeaways**
+## Takeaways
 
 * Built a complete **ML pipeline** — from training to predictions
 * Explored multiple deployment paths before settling on **Hugging Face**
