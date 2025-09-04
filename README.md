@@ -1,8 +1,5 @@
 # youtube-adview-predictor
 
-
-# **YouTube AdView Prediction** 
-
 Predicting the **number of ad views** on YouTube videos using **machine learning**.
 This project focuses on building a regression model trained on video metadata to estimate the number of **ad impressions** a video can potentially generate.
 
